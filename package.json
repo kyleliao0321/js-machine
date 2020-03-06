@@ -1,0 +1,16 @@
+{
+  "name": "js-machine",
+  "version": "1.0.0",
+  "description": "JavaScript Machine Learning Libraray",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.7.7",
+    "lodash": "^4.17.15",
+    "mathjs": "^6.6.1"
+  }
+}
